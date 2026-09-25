@@ -22,3 +22,4 @@ repozitára. Každý dokument je samostatný vyčistený UTF-8 súbor v priečin
 
 ## Výsledok
 Val loss po 2000 iteráciách: 3.7538.
+iter 7000: loss 3.6931
