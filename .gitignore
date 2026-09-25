@@ -10,3 +10,18 @@ __pycache__/
 input.txt
 env/
 venv/
+# Karpathy Lab: GitHub contains code and approved reports, never corpus/checkpoints.
+.venv/
+.env
+data/domain_texts/
+data/domain_lab*/
+data/tokenizer_lab/
+data/shakespeare_char/input.txt
+*.bin
+*.pt
+*.pkl
+*.model
+*.vocab
+out*/
+logs/
+__pycache__/
