@@ -1,19 +1,8 @@
-qqq.DS_Store
-.idea
-.ipynb_checkpoints/
-.vscode
-__pycache__/
-*.bxX^x^Xin
-*.pkl
-*.pt
-*.pyc
-input.txt
-env/
-venv/
+
 # Karpathy Lab: GitHub contains code and approved reports, never corpus/checkpoints.
 .venv/
 .env
-data/domain_texts*/
+data/domain_texts/
 data/domain_lab*/
 data/tokenizer_lab/
 data/shakespeare_char/input.txt
