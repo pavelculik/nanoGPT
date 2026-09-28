@@ -21,4 +21,5 @@ repozitára. Každý dokument je samostatný vyčistený UTF-8 súbor v priečin
 `python scripts/sample_domain_lab.py --checkpoint out-domain-lab-01/ckpt.pt --trust-local-checkpoint --prompt "Dnes" --temperature 0.8`
 
 ## Výsledok
-Val loss po 2000 iteráciách: <hodnota z tréningu>.
+Val loss po 2000 iteráciách: 3.7538.
+iter 7000: loss 3.6931

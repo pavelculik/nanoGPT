@@ -13,7 +13,13 @@ venv/
 # Karpathy Lab: GitHub contains code and approved reports, never corpus/checkpoints.
 .venv/
 .env
+<<<<<<< HEAD
 data/domain_texts*/
+=======
+data/domain_texts/
+data/domain_texts_v2/
+data/domain_texts_v3/
+>>>>>>> 96d0bb6e0d2fa33f07e57c057e94b838c611f92f
 data/domain_lab*/
 data/tokenizer_lab/
 data/shakespeare_char/input.txt
